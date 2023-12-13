@@ -1,2 +1,2 @@
 # ACG
-jsDelivr cdn
+jsDelivr cdn1
